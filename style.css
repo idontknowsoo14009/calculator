@@ -1,0 +1,14 @@
+button { 
+    background-color: rgb(143, 151, 196); 
+    height: 60px; 
+    width: 60px; 
+    font-size: 18px; 
+    border-radius: 20px; 
+    margin: 60px 60px 0 0; 
+
+} 
+ 
+html { 
+    background-color: skyblue; 
+
+}
