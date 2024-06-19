@@ -1,4 +1,4 @@
-This is a simple calculator application built using HTML, CSS, and JavaScript.
+This simple calculator application is built using HTML, CSS, and JavaScript.
 Features:
  * Basic mathematical operations (addition, subtraction, multiplication, division)
 Getting Started
@@ -10,3 +10,5 @@ Future Enhancements
  * Implement more complex mathematical operations (e.g., exponents, logarithms)
  * Add memory functionality
  * Create a mobile-friendly layout
+
+ Note: I took a month because I realized I needed to know some javascript and also it wasn't enough so I decided to google 
