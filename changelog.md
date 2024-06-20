@@ -15,7 +15,9 @@ What to expect in the future:
 - 
 * Scientific calculator button added (2024-06-21)
 * Scientific calculator button has a diffrent style (2024-06-21)
+* 
 **Scientific calculator button has functionalliy** (2024-06-27)
+  
  **What the code will do**
 - The functionallity makes some buttons appear if pressed
 - You can use the hidden buttons that are now visible once the button is pressed
