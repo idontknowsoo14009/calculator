@@ -6,9 +6,5 @@ Getting Started
  * Open the index.html file in a web browser.
 Development
 Feel free to modify the HTML, CSS, and JavaScript files to customize the calculator's functionality and appearance.
-Future Enhancements
- * Implement more complex mathematical operations (e.g., exponents, logarithms)
- * Add memory functionality
- * Create a mobile-friendly layout
 
  Note: I took a month because I realized I needed to know some javascript and also it wasn't enough so I decided to google 
